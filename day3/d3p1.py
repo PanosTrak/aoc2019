@@ -1,3 +1,6 @@
+# Collab with https://github.com/GiorT
+
+
 def main():
 
     wires = read_file()
